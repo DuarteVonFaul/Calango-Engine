@@ -1,2 +1,0 @@
-# Calango-Engine
-## Resumo

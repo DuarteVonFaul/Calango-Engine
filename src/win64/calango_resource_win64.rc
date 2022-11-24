@@ -1,0 +1,3 @@
+#include "calango_resource_win64.h"
+LANGUAGE 0,0
+CALANGO_ICON_ID ICON "..\\calango.ico"

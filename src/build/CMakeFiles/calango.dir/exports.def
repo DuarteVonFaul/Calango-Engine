@@ -1,0 +1,8 @@
+EXPORTS 
+	?_OptionsStorage@?1??__local_stdio_printf_options@@9@4_KA 	 DATA
+	??0Engine@calango@@QEAA@XZ
+	??1Engine@calango@@QEAA@XZ
+	??4Engine@calango@@QEAAAEAU01@AEBU01@@Z
+	__local_stdio_printf_options
+	_vfprintf_l
+	printf

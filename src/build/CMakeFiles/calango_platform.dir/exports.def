@@ -1,0 +1,6 @@
+EXPORTS 
+	??4Platform@calango@@QEAAAEAU01@$$QEAU01@@Z
+	??4Platform@calango@@QEAAAEAU01@AEBU01@@Z
+	?calangoWinProc@calango@@YA_JPEAUHWND__@@I_K_J@Z
+	?createWindow@Platform@calango@@QEAAPEAUWindow@2@HHPEBD@Z
+	?showMessage@Platform@calango@@QEAAXPEAD@Z

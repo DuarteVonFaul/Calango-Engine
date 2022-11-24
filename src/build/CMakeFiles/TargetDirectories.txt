@@ -1,0 +1,5 @@
+C:/Users/Estagiario-03/Desktop/Duarte/Calango-Engine/src/build/CMakeFiles/calango_platform.dir
+C:/Users/Estagiario-03/Desktop/Duarte/Calango-Engine/src/build/CMakeFiles/calango.dir
+C:/Users/Estagiario-03/Desktop/Duarte/Calango-Engine/src/build/CMakeFiles/clauncher.dir
+C:/Users/Estagiario-03/Desktop/Duarte/Calango-Engine/src/build/CMakeFiles/edit_cache.dir
+C:/Users/Estagiario-03/Desktop/Duarte/Calango-Engine/src/build/CMakeFiles/rebuild_cache.dir

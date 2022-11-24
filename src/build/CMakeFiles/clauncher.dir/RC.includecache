@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Estagiario-03/Desktop/Duarte/Calango-Engine/src/win64/calango_resource_win64.h
+
+C:/Users/Estagiario-03/Desktop/Duarte/Calango-Engine/src/win64/calango_resource_win64.rc
+calango_resource_win64.h
+C:/Users/Estagiario-03/Desktop/Duarte/Calango-Engine/src/win64/calango_resource_win64.h
+
